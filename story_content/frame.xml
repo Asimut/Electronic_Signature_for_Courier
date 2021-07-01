@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="E-Signatuge_Couriere_01.07.2021" />
+              <option name="title_text" value="ElectronicSignature_forCourier_01.07.2021" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -208,17 +208,6 @@
   </control_layouts>
   <colorschemes>
     <colorscheme name="npnxnanbnsnfns00000000001">
-      <color_group name="accessibility">
-        <group_colors>
-          <color name="focus_rect">
-            <fill type="linear" rotation="90">
-              <colors>
-                <color rgb="0xFFFF00" alpha="0" stop="0" />
-              </colors>
-            </fill>
-          </color>
-        </group_colors>
-      </color_group>
       <color_group name="infopanel">
         <group_colors>
           <color name="link_text">
@@ -543,7 +532,7 @@
             <fill type="linear" rotation="90">
               <colors>
                 <color rgb="0xE9E9E9" alpha="0" stop="0" />
-                <color rgb="0xCFCFCF" alpha="0" stop="255" />
+                <color rgb="0x000000" alpha="0" stop="255" />
               </colors>
             </fill>
           </color>
@@ -1132,6 +1121,17 @@
           </color>
         </group_colors>
       </color_group>
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
     </colorscheme>
   </colorschemes>
   <string_tables>
@@ -1239,22 +1239,22 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6SShpbxoYHn" displaytext="Main_scene" expand="true" type="slide">
+        <slidelink slideid="_player.6fboUDGiNYv" displaytext="First_scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6SShpbxoYHn.6JJZ7gMfQAQ" displaytext="Form" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.5gxRmS5KPKm" displaytext="Title_KEP" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.6NoQnKxw8UG" displaytext="Slide1.2" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.5zt45sx7kPR" displaytext="Slide2.1" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.6T8gZpixJPF" displaytext="Slide2.1" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.6mleu8uFnIm" displaytext="Slide2.1" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.6RfGWOv3JP4" displaytext="Slide2.1" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.6boFRgxqjGh" displaytext="Slide2.1" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.60MC6IcXLUw" displaytext="Slide2.1" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.5zQgs68k02N" displaytext="Slide2.1" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.5cXKzlFjOvh" displaytext="Slide2.1" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.5eUFfxfJbyI" displaytext="Slide2.1" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.68G0VyTOdqr" displaytext="Slide2.1" expand="false" type="slide" />
-            <slidelink slideid="_player.6SShpbxoYHn.5rDK7zpyhep" displaytext="The_End" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6eNmqlKY44N" displaytext="Form" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.63cCDEP302T" displaytext="Title_KEP" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6g2fuHHlOsP" displaytext="Slide1.2" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6ZWmTsYmIKN" displaytext="Slide2.1" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5b7329jQNup" displaytext="Slide2.1" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6iPr1htvoim" displaytext="Slide2.1" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5Zf0Y3hUqIv" displaytext="Slide2.1" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6fTC7a20D9q" displaytext="Slide2.1" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6Kl5vMoBAnA" displaytext="Slide2.1" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.64vEZ84tgn9" displaytext="Slide2.1" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6mUd3nRzWDc" displaytext="Slide2.1" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5Y2f6RQ0zC7" displaytext="Slide2.1" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.5rNoTajr6zm" displaytext="Slide2.1" expand="false" type="slide" />
+            <slidelink slideid="_player.6fboUDGiNYv.6heY8X65pAL" displaytext="The_End" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
